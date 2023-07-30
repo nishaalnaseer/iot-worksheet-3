@@ -1,0 +1,7 @@
+{
+  "db_ip": "localhost",
+  "username": "root",
+  "password": "123",
+  "db": "worksheet-3",
+  "port": 3306
+}
